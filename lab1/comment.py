@@ -1,34 +1,24 @@
 #1
-x = 5
-print(type(x))
-#int
+#This is a comment
+print("Hello, World!")
 
 #2
-x = "Hello World"
-print(type(x))
-#str
+print("Hello, World!") #This is a comment
 
 #3
-x = 20.5
-print(type(x))
-#float
+#print("Hello, World!")
+print("Cheers, Mate!")
 
 #4
-x = ["apple", "banana", "cherry"]
-print(type(x))
-#list
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
 
 #5
-x = ("apple", "banana", "cherry")
-print(type(x))
-#tuple
-
-#6
-x = {"name" : "John", "age" : 36}
-print(type(x))
-#dict
-
-#7
-x = True
-print(type(x))
-#bool
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, World!")
